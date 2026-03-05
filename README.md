@@ -1,6 +1,6 @@
 MyPerro - 3D Animated Web Experience I built this interactive website using React and integrated custom 3D animations to bring the user experience to life.
 
-Check out the live site: myperro-clone-swart.vercel.app
+Check out the live site: https://myperro-clone-swart.vercel.app/
 
 What I used:
 
